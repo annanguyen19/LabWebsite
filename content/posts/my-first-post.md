@@ -1,0 +1,8 @@
+---
+title: "My First Post"
+date: 2018-12-04T14:59:41-05:00
+draft: true
+---
+Recent advances in single-cell technologies enable deep insights into cellular development, gene regulation, and phenotypic diversity by measuring gene expression and epigenetics for thousands of single cells in a single experiment. While these technologies hold great potential for improving our understanding of cellular states and progression, they also pose new challenges in terms of scale, complexity, noise and measurement artifact which require advanced mathematical and algorithmic tools to extract underlying biological signals. At the Krishnaswamy Lab, we work on one of the most promising techniques to tackle these problems: manifold learning, and the related manifold assumption in data analysis.
+
+Manifold learning provides a powerful structure for algorithmic approaches to naturally process data, visualize it, understand progressions, find phenotypic diversity, and infer patterns. We have applied alternative approaches to manifold learning, diffusion-based and deep learning-based and showed results in several projects.
